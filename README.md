@@ -33,3 +33,5 @@ Added
 - CosmeticMegapack-1.2.0
 - LethalPosters-1.2.0
 - CudisRealisticSuits-1.0.0
+- 2018-LC_API-3.4.5
+- poogle-GoAwayModList-1.0.0
