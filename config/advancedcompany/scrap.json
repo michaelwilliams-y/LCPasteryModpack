@@ -1,0 +1,4564 @@
+{
+  "items": [
+    {
+      "key": "02",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 75,
+        "override_max_value": false,
+        "max_value": 300,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "3DS",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Adeleine",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Aegislash",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Airhorn",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 130,
+        "override_max_value": false,
+        "max_value": 180,
+        "override_weight": false,
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "All Night Mask",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 150,
+        "override_max_value": false,
+        "max_value": 220,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Annihilator Beam",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Apple",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.1
+      }
+    },
+    {
+      "key": "Arson Plush",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 100,
+        "override_max_value": false,
+        "max_value": 250,
+        "override_weight": false,
+        "weight": 1.0952
+      }
+    },
+    {
+      "key": "Artifact of Chozo",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Artifact of Elder",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Artifact of Lifegiver",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Artifact of Nature",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Artifact of Newborn",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Artifact of Spirit",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Artifact of Strength",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Artifact of Sun",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Artifact of Truth",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Artifact of Warrior",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Artifact of Wild",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Artifact of World",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Ashleys Wand",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 275,
+        "override_weight": false,
+        "weight": 1.15
+      }
+    },
+    {
+      "key": "Axis of Evil",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Baguette",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Banana Peel",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Barney",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Barney the Purple Dinosaurs Head",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Bell",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 120,
+        "override_max_value": false,
+        "max_value": 200,
+        "override_weight": false,
+        "weight": 1.23
+      }
+    },
+    {
+      "key": "Berserk",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "BFG-9000",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 100,
+        "override_max_value": false,
+        "max_value": 300,
+        "override_weight": false,
+        "weight": 2.95
+      }
+    },
+    {
+      "key": "Big Banana",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Big bolt",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 80,
+        "override_weight": false,
+        "weight": 1.18
+      }
+    },
+    {
+      "key": "Big Leek",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Bitten Sandvich",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Black Bomberman Plushie",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 150,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Blastcap",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Blooper",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Blue Fruit",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Blue Keycard",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Blue Shell",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Blue Skull Key",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Bob-Omb",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 115,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Bolt Trophy",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Boss Keys",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 210,
+        "override_max_value": false,
+        "max_value": 400,
+        "override_weight": false,
+        "weight": 1.65
+      }
+    },
+    {
+      "key": "Bottles",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 110,
+        "override_max_value": false,
+        "max_value": 140,
+        "override_weight": false,
+        "weight": 1.18
+      }
+    },
+    {
+      "key": "Bowling Ball",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 115,
+        "override_max_value": false,
+        "max_value": 180,
+        "override_weight": false,
+        "weight": 1.4
+      }
+    },
+    {
+      "key": "Bowsers Shell",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 115,
+        "override_max_value": false,
+        "max_value": 200,
+        "override_weight": false,
+        "weight": 1.5
+      }
+    },
+    {
+      "key": "Box Horn",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Bremen Mask",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Briefcase",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Brush",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 20,
+        "override_max_value": false,
+        "max_value": 90,
+        "override_weight": false,
+        "weight": 1.1
+      }
+    },
+    {
+      "key": "Bucket",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Bulk Star",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.6
+      }
+    },
+    {
+      "key": "Bullet Bill",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Bunny ears",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 499,
+        "override_max_value": false,
+        "max_value": 749,
+        "override_weight": false,
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "Buster Sword",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Candy",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 15,
+        "override_max_value": false,
+        "max_value": 90,
+        "override_weight": false,
+        "weight": 1.1
+      }
+    },
+    {
+      "key": "Captain Falcons Glove",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Cash register",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 200,
+        "override_max_value": false,
+        "max_value": 400,
+        "override_weight": false,
+        "weight": 1.8
+      }
+    },
+    {
+      "key": "Cast Iron Bomb",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 60,
+        "override_max_value": false,
+        "max_value": 115,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Caveman Meat",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Chain Chomp",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Chao",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 75,
+        "override_max_value": false,
+        "max_value": 155,
+        "override_weight": false,
+        "weight": 1.25
+      }
+    },
+    {
+      "key": "Chao Egg",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.25
+      }
+    },
+    {
+      "key": "Chao Egg Shell",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 15,
+        "override_max_value": false,
+        "max_value": 85,
+        "override_weight": false,
+        "weight": 1.03
+      }
+    },
+    {
+      "key": "Chao Garden Key",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 30,
+        "override_max_value": false,
+        "max_value": 115,
+        "override_weight": false,
+        "weight": 1.03
+      }
+    },
+    {
+      "key": "Chao Nut",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.25
+      }
+    },
+    {
+      "key": "Chaos Emerald",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 100,
+        "override_max_value": false,
+        "max_value": 200,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Cheap Knockoff Prop Lightsaber",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.08
+      }
+    },
+    {
+      "key": "Checkpoint",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Chemical jug",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 80,
+        "override_max_value": false,
+        "max_value": 210,
+        "override_weight": false,
+        "weight": 1.3
+      }
+    },
+    {
+      "key": "Chicken",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 125,
+        "override_max_value": false,
+        "max_value": 335,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Chill Djinn",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Chocolate Bar",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 115,
+        "override_max_value": false,
+        "max_value": 200,
+        "override_weight": false,
+        "weight": 1.35
+      }
+    },
+    {
+      "key": "Chozo Artifact Upgrade Shell",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Cloverfield Monster Action Figure",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 100,
+        "override_max_value": false,
+        "max_value": 450,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Clown horn",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 130,
+        "override_max_value": false,
+        "max_value": 180,
+        "override_weight": false,
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "Club Key",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Cockatiel",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 115,
+        "override_max_value": false,
+        "max_value": 225,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Coin",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Comedy",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 70,
+        "override_max_value": false,
+        "max_value": 130,
+        "override_weight": false,
+        "weight": 1.1
+      }
+    },
+    {
+      "key": "Comically Large Spoon",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Compact Star",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.35
+      }
+    },
+    {
+      "key": "Controversial Item",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 20,
+        "override_max_value": false,
+        "max_value": 300,
+        "override_weight": false,
+        "weight": 1.3
+      }
+    },
+    {
+      "key": "Cookie Fumo",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 100,
+        "override_max_value": false,
+        "max_value": 250,
+        "override_weight": false,
+        "weight": 1.0476
+      }
+    },
+    {
+      "key": "Cookie mold pan",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 30,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.15
+      }
+    },
+    {
+      "key": "Coral Djinn",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Crewmate Plush",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 35,
+        "override_max_value": false,
+        "max_value": 85,
+        "override_weight": false,
+        "weight": 1.03
+      }
+    },
+    {
+      "key": "Crowbar",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.09
+      }
+    },
+    {
+      "key": "Dafinis Severed Head",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 100,
+        "override_max_value": false,
+        "max_value": 300,
+        "override_weight": false,
+        "weight": 1.35
+      }
+    },
+    {
+      "key": "Dallas Mask",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Dark Beam",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Dark Fruit",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 75,
+        "override_max_value": false,
+        "max_value": 155,
+        "override_weight": false,
+        "weight": 1.25
+      }
+    },
+    {
+      "key": "Dark Nut",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 75,
+        "override_max_value": false,
+        "max_value": 155,
+        "override_weight": false,
+        "weight": 1.25
+      }
+    },
+    {
+      "key": "Deku Mask",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Diamond Key",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 100,
+        "override_max_value": false,
+        "max_value": 200,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Dino Egg",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 600,
+        "override_weight": false,
+        "weight": 2.35
+      }
+    },
+    {
+      "key": "Dirty Arson Plush",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 30,
+        "override_max_value": false,
+        "max_value": 150,
+        "override_weight": false,
+        "weight": 1.0952
+      }
+    },
+    {
+      "key": "Ditto",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Dr.Phil",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.25
+      }
+    },
+    {
+      "key": "Dragon Slayer",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.55
+      }
+    },
+    {
+      "key": "Dragoon",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 200,
+        "override_max_value": false,
+        "max_value": 300,
+        "override_weight": false,
+        "weight": 1.45
+      }
+    },
+    {
+      "key": "Dubstep Gun",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 185,
+        "override_max_value": false,
+        "max_value": 280,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Dust pan",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 30,
+        "override_max_value": false,
+        "max_value": 80,
+        "override_weight": false,
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "Eevee Plush",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Egg beater",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 30,
+        "override_max_value": false,
+        "max_value": 110,
+        "override_weight": false,
+        "weight": 1.1
+      }
+    },
+    {
+      "key": "Ela",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Espeon",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Exodia",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 300,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Exodia Left Leg",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 300,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Exodia Right Arm",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 300,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Exodia Right Leg",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 300,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Fancy lamp",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 150,
+        "override_max_value": false,
+        "max_value": 320,
+        "override_weight": false,
+        "weight": 1.2
+      }
+    },
+    {
+      "key": "Fever Djinn",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Fierce Deitys Mask",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 200,
+        "override_max_value": false,
+        "max_value": 500,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Fish",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Five Star Dragon Ball",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Five Star Namekian Dragon Ball",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Flareon",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Flask",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 40,
+        "override_max_value": false,
+        "max_value": 110,
+        "override_weight": false,
+        "weight": 1.18
+      }
+    },
+    {
+      "key": "Fleet Djinn",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Flight Warpstar",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Flint Djinn",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Foam Gladiator Pole",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Foam Sledgehammer",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Foam Sword",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Forge Djinn",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Formula Star",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Four Star Dragon Ball",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Four Star Namekian Dragon Ball",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Free Star",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Froggie",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 75,
+        "override_max_value": false,
+        "max_value": 175,
+        "override_weight": false,
+        "weight": 1.13
+      }
+    },
+    {
+      "key": "Fulgur Anjanath Action Figure",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 85,
+        "override_max_value": false,
+        "max_value": 175,
+        "override_weight": false,
+        "weight": 1.08
+      }
+    },
+    {
+      "key": "Furry Idol",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 2,
+        "override_max_value": false,
+        "max_value": 185,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Gameboy Horror",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Gamecube",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Garo Mask",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Geode Djinn",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Ghostly Crewmate Plush",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 86,
+        "override_max_value": false,
+        "max_value": 105,
+        "override_weight": false,
+        "weight": 1.02
+      }
+    },
+    {
+      "key": "Giant Mask",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Giant Novelty Foam Hand",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Gibdo Mask",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Gift",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 30,
+        "override_max_value": false,
+        "max_value": 70,
+        "override_weight": false,
+        "weight": 1.18
+      }
+    },
+    {
+      "key": "Glaceon",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Glizzy",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 25,
+        "override_max_value": false,
+        "max_value": 60,
+        "override_weight": false,
+        "weight": 1.0476
+      }
+    },
+    {
+      "key": "Glowing Crewmate Plush",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 86,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.04
+      }
+    },
+    {
+      "key": "Gnarpy Plush",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 100,
+        "override_max_value": false,
+        "max_value": 250,
+        "override_weight": false,
+        "weight": 1.0952
+      }
+    },
+    {
+      "key": "Gohei",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Gold bar",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 255,
+        "override_max_value": false,
+        "max_value": 525,
+        "override_weight": false,
+        "weight": 1.73
+      }
+    },
+    {
+      "key": "Golden Balloon",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 95,
+        "override_max_value": false,
+        "max_value": 280,
+        "override_weight": false,
+        "weight": 1.2
+      }
+    },
+    {
+      "key": "Golden Banana",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 125,
+        "override_max_value": false,
+        "max_value": 275,
+        "override_weight": false,
+        "weight": 1.35
+      }
+    },
+    {
+      "key": "Golden Beetle",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 115,
+        "override_max_value": false,
+        "max_value": 225,
+        "override_weight": false,
+        "weight": 1.65
+      }
+    },
+    {
+      "key": "Golden cup",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 100,
+        "override_max_value": false,
+        "max_value": 200,
+        "override_weight": false,
+        "weight": 1.15
+      }
+    },
+    {
+      "key": "Golden Hammer",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 200,
+        "override_max_value": false,
+        "max_value": 300,
+        "override_weight": false,
+        "weight": 1.25
+      }
+    },
+    {
+      "key": "Golden Mushroom",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 200,
+        "override_max_value": false,
+        "max_value": 300,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Goron Mask",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Great Fairy Mask",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Green Fruit",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 75,
+        "override_max_value": false,
+        "max_value": 155,
+        "override_weight": false,
+        "weight": 1.25
+      }
+    },
+    {
+      "key": "Green Shell",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Gremlin Can",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 45,
+        "override_max_value": false,
+        "max_value": 225,
+        "override_weight": false,
+        "weight": 1.07
+      }
+    },
+    {
+      "key": "Guardian Head",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Gust Djinn",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Hairdryer",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 150,
+        "override_max_value": false,
+        "max_value": 250,
+        "override_weight": false,
+        "weight": 1.07
+      }
+    },
+    {
+      "key": "Halberd",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.35
+      }
+    },
+    {
+      "key": "Ham",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 300,
+        "override_weight": false,
+        "weight": 1.55
+      }
+    },
+    {
+      "key": "Hamburger",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Hamis Plush",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 60,
+        "override_max_value": false,
+        "max_value": 250,
+        "override_weight": false,
+        "weight": 1.0476
+      }
+    },
+    {
+      "key": "Hammer",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 125,
+        "override_max_value": false,
+        "max_value": 200,
+        "override_weight": false,
+        "weight": 1.25
+      }
+    },
+    {
+      "key": "Hamsmall",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 115,
+        "override_weight": false,
+        "weight": 1.55
+      }
+    },
+    {
+      "key": "Headcrab",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Heart",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Heart Fruit",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 75,
+        "override_max_value": false,
+        "max_value": 155,
+        "override_weight": false,
+        "weight": 1.25
+      }
+    },
+    {
+      "key": "Heart Key",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Heart Seed",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 35,
+        "override_max_value": false,
+        "max_value": 95,
+        "override_weight": false,
+        "weight": 1.25
+      }
+    },
+    {
+      "key": "Heavy Ball",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Hero Nut",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 75,
+        "override_max_value": false,
+        "max_value": 155,
+        "override_weight": false,
+        "weight": 1.25
+      }
+    },
+    {
+      "key": "HEV Suit",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 150,
+        "override_max_value": false,
+        "max_value": 300,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Hey Hey People Sseth Here",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Holy Hand Grenade of Antioch",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 115,
+        "override_max_value": false,
+        "max_value": 220,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Home Run Bat",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Homemade flashbang",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 25,
+        "override_max_value": false,
+        "max_value": 70,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Homsar",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Honeycomb",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Hydra",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 200,
+        "override_max_value": false,
+        "max_value": 300,
+        "override_weight": false,
+        "weight": 1.75
+      }
+    },
+    {
+      "key": "Icon of Sin",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Intro Key",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Invulnerability",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 125,
+        "override_max_value": false,
+        "max_value": 300,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Jar of pickles",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 80,
+        "override_max_value": false,
+        "max_value": 150,
+        "override_weight": false,
+        "weight": 1.15
+      }
+    },
+    {
+      "key": "JenovaPod",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 85,
+        "override_max_value": false,
+        "max_value": 550,
+        "override_weight": false,
+        "weight": 1.85
+      }
+    },
+    {
+      "key": "Jet Star",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.25
+      }
+    },
+    {
+      "key": "Jiggy",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 95,
+        "override_max_value": false,
+        "max_value": 280,
+        "override_weight": false,
+        "weight": 1.2
+      }
+    },
+    {
+      "key": "Jolteon",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Keaton Mask",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Key",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 0,
+        "override_max_value": false,
+        "max_value": 0,
+        "override_weight": false,
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "King Hippo Crown",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 175,
+        "override_max_value": false,
+        "max_value": 275,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Kirby",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 200,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Landmine",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Large axle",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 90,
+        "override_max_value": false,
+        "max_value": 140,
+        "override_weight": false,
+        "weight": 1.15
+      }
+    },
+    {
+      "key": "Large Energy",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 95,
+        "override_max_value": false,
+        "max_value": 125,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Laser pointer",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 80,
+        "override_max_value": false,
+        "max_value": 250,
+        "override_weight": false,
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "Leafeon",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Light Saber",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Light shoes",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 749,
+        "override_max_value": false,
+        "max_value": 999,
+        "override_weight": false,
+        "weight": 1.0476191
+      }
+    },
+    {
+      "key": "Magic 7 ball",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 90,
+        "override_max_value": false,
+        "max_value": 180,
+        "override_weight": false,
+        "weight": 1.15
+      }
+    },
+    {
+      "key": "Magikarp",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 95,
+        "override_max_value": false,
+        "max_value": 165,
+        "override_weight": false,
+        "weight": 1.25
+      }
+    },
+    {
+      "key": "Magnifying glass",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 110,
+        "override_max_value": false,
+        "max_value": 150,
+        "override_weight": false,
+        "weight": 1.1
+      }
+    },
+    {
+      "key": "Majoras Mask",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 175,
+        "override_max_value": false,
+        "max_value": 300,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Mario Cap",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Mario Glove",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Marios Shoe",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Master Emerald Shard",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 45,
+        "override_max_value": false,
+        "max_value": 115,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Mastersword",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 115,
+        "override_max_value": false,
+        "max_value": 225,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Maximum Tomato",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 115,
+        "override_max_value": false,
+        "max_value": 230,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Maxwell",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 180,
+        "override_max_value": false,
+        "max_value": 350,
+        "override_weight": false,
+        "weight": 1.11428
+      }
+    },
+    {
+      "key": "Mega Man Blaster",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 189,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Mega Man Remains",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 250,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Mega Sphere",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 125,
+        "override_max_value": false,
+        "max_value": 300,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Mellow Djinn",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Meta Mask",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Metal sheet",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 25,
+        "override_max_value": false,
+        "max_value": 55,
+        "override_weight": false,
+        "weight": 1.25
+      }
+    },
+    {
+      "key": "Metroid",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 90,
+        "override_max_value": false,
+        "max_value": 190,
+        "override_weight": false,
+        "weight": 1.28
+      }
+    },
+    {
+      "key": "Mips got what he Deserved",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Missile",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Money",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 200,
+        "override_max_value": false,
+        "max_value": 300,
+        "override_weight": false,
+        "weight": 1.01
+      }
+    },
+    {
+      "key": "Money Bag",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 20,
+        "override_max_value": false,
+        "max_value": 600,
+        "override_weight": false,
+        "weight": 1.85
+      }
+    },
+    {
+      "key": "Moon",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 150,
+        "override_max_value": false,
+        "max_value": 350,
+        "override_weight": false,
+        "weight": 1.95
+      }
+    },
+    {
+      "key": "Morph Ball",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Mr.Saturn",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 35,
+        "override_max_value": false,
+        "max_value": 135,
+        "override_weight": false,
+        "weight": 1.08
+      }
+    },
+    {
+      "key": "Mug",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 60,
+        "override_max_value": false,
+        "max_value": 170,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Music Note",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Navi",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 75,
+        "override_max_value": false,
+        "max_value": 150,
+        "override_weight": false,
+        "weight": 1.02
+      }
+    },
+    {
+      "key": "Nintendo 64",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Nokia Mobile Phone",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 115,
+        "override_max_value": false,
+        "max_value": 200,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Obama",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 224,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Ocarina of Time",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 150,
+        "override_max_value": false,
+        "max_value": 300,
+        "override_weight": false,
+        "weight": 1.06
+      }
+    },
+    {
+      "key": "Old phone",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 120,
+        "override_max_value": false,
+        "max_value": 160,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Omochao",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 25,
+        "override_max_value": false,
+        "max_value": 125,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "One Chip Challenge",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "One Star Dragon Ball",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "One Star Namekian Dragon Ball",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Orange Fruit",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 75,
+        "override_max_value": false,
+        "max_value": 155,
+        "override_weight": false,
+        "weight": 1.25
+      }
+    },
+    {
+      "key": "Painting",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 150,
+        "override_max_value": false,
+        "max_value": 310,
+        "override_weight": false,
+        "weight": 1.3
+      }
+    },
+    {
+      "key": "PDA",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Peach",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Peppino Spaghetti",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 135,
+        "override_max_value": false,
+        "max_value": 265,
+        "override_weight": false,
+        "weight": 1.13
+      }
+    },
+    {
+      "key": "Perfume bottle",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 120,
+        "override_max_value": false,
+        "max_value": 260,
+        "override_weight": false,
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "Pickle Rick",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Pika Plush",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Pile of Pikmin Corpses",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Pill bottle",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 40,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "Pineapple",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Pink Fruit",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 75,
+        "override_max_value": false,
+        "max_value": 155,
+        "override_weight": false,
+        "weight": 1.25
+      }
+    },
+    {
+      "key": "Pizza",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.35
+      }
+    },
+    {
+      "key": "Pizza Tower",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 500,
+        "override_weight": false,
+        "weight": 1.85
+      }
+    },
+    {
+      "key": "Plasma Beam",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Plastic fish",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 70,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "PLOKs Body",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "PLOKs Head",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "PLOKs Left Arm",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "PLOKs Left Foot",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "PLOKs Right Arm",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "PLOKs Right Foot",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Popcorn",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 25,
+        "override_max_value": false,
+        "max_value": 85,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Pot of Greed",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 150,
+        "override_max_value": false,
+        "max_value": 300,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Potatoes",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 99,
+        "override_max_value": false,
+        "max_value": 349,
+        "override_weight": false,
+        "weight": 1.09523809
+      }
+    },
+    {
+      "key": "Power Beam",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Proto Blaster",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Proto Helm",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Proto Shield",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Raymans Body",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Raymans Head",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Raymans Left Foot",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Raymans Left Hand",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Raymans Right Foot",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Raymans Right Hand",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Red Fruit",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 75,
+        "override_max_value": false,
+        "max_value": 155,
+        "override_weight": false,
+        "weight": 1.25
+      }
+    },
+    {
+      "key": "Red Keycard",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Red Mushroom",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Red Skull Key",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Red soda",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 45,
+        "override_max_value": false,
+        "max_value": 225,
+        "override_weight": false,
+        "weight": 1.07
+      }
+    },
+    {
+      "key": "Remote",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 120,
+        "override_weight": false,
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "Revolver",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 20,
+        "override_max_value": false,
+        "max_value": 150,
+        "override_weight": false,
+        "weight": 1.028
+      }
+    },
+    {
+      "key": "Rex Wheelie",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.45
+      }
+    },
+    {
+      "key": "Ribbon",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Ring",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 130,
+        "override_max_value": false,
+        "max_value": 200,
+        "override_weight": false,
+        "weight": 1.15
+      }
+    },
+    {
+      "key": "Ristar Doll",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 115,
+        "override_max_value": false,
+        "max_value": 350,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Roast Chicken",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Rocket Star",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.3
+      }
+    },
+    {
+      "key": "Round Fruit",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 75,
+        "override_max_value": false,
+        "max_value": 155,
+        "override_weight": false,
+        "weight": 1.25
+      }
+    },
+    {
+      "key": "Round Seed",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 35,
+        "override_max_value": false,
+        "max_value": 95,
+        "override_weight": false,
+        "weight": 1.25
+      }
+    },
+    {
+      "key": "Rubber Ducky",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 5,
+        "override_max_value": false,
+        "max_value": 250,
+        "override_weight": false,
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "Sandvich",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 75,
+        "override_max_value": false,
+        "max_value": 150,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Sasha",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Seven Star Dragon Ball",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Seven Star Namekian Dragon Ball",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Shine Sprite",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 195,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Shrek",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 6,
+        "override_max_value": false,
+        "max_value": 666,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Sinistar",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 75,
+        "override_max_value": false,
+        "max_value": 500,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Six Star Dragon Ball",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Six Star Namekian Dragon Ball",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Skillet",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 74,
+        "override_max_value": false,
+        "max_value": 224,
+        "override_weight": false,
+        "weight": 1.07619047
+      }
+    },
+    {
+      "key": "Slick Star",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.25
+      }
+    },
+    {
+      "key": "Small Energy",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 35,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Soft Serve Icecream",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Sonic Plush",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Soul Edge",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 100,
+        "override_max_value": false,
+        "max_value": 300,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Soul Sphere",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 125,
+        "override_max_value": false,
+        "max_value": 300,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Space Colony Ark",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 155,
+        "override_max_value": false,
+        "max_value": 285,
+        "override_weight": false,
+        "weight": 2.15
+      }
+    },
+    {
+      "key": "Spade Key",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Square Fruit",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 75,
+        "override_max_value": false,
+        "max_value": 155,
+        "override_weight": false,
+        "weight": 1.25
+      }
+    },
+    {
+      "key": "Square Seed",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 35,
+        "override_max_value": false,
+        "max_value": 95,
+        "override_weight": false,
+        "weight": 1.25
+      }
+    },
+    {
+      "key": "Star",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 245,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Star Rod",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 55,
+        "override_max_value": false,
+        "max_value": 300,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Steering wheel",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 40,
+        "override_max_value": false,
+        "max_value": 80,
+        "override_weight": false,
+        "weight": 1.15
+      }
+    },
+    {
+      "key": "Stop sign",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 130,
+        "override_weight": false,
+        "weight": 1.2
+      }
+    },
+    {
+      "key": "Strawberry Shortcake",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Strong Bad",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Strong Fruit",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 75,
+        "override_max_value": false,
+        "max_value": 155,
+        "override_weight": false,
+        "weight": 1.25
+      }
+    },
+    {
+      "key": "Strong Seed",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 35,
+        "override_max_value": false,
+        "max_value": 95,
+        "override_weight": false,
+        "weight": 1.25
+      }
+    },
+    {
+      "key": "Sulfuras",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Sunshot",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 95,
+        "override_max_value": false,
+        "max_value": 185,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Sushi Van",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.4
+      }
+    },
+    {
+      "key": "Suspicious Weapon",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 30,
+        "override_max_value": false,
+        "max_value": 55,
+        "override_weight": false,
+        "weight": 1.04
+      }
+    },
+    {
+      "key": "Swerve Star",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.25
+      }
+    },
+    {
+      "key": "Sylveon",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Tails",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Tails Doll",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 250,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Tasty Fruit",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 75,
+        "override_max_value": false,
+        "max_value": 155,
+        "override_weight": false,
+        "weight": 1.25
+      }
+    },
+    {
+      "key": "Tea kettle",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 80,
+        "override_max_value": false,
+        "max_value": 140,
+        "override_weight": false,
+        "weight": 1.2
+      }
+    },
+    {
+      "key": "Teble Clef",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Teeth",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 150,
+        "override_max_value": false,
+        "max_value": 210,
+        "override_weight": false,
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "TestBatt",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "The Jack Black Orb",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "The Penetrator",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Three Star Dragon Ball",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Three Star Namekian Dragon Ball",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Thunder",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Toad",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Toads Decomposing Corpse",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Toimari Plush",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 100,
+        "override_max_value": false,
+        "max_value": 250,
+        "override_weight": false,
+        "weight": 1.0952
+      }
+    },
+    {
+      "key": "Toothpaste",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 35,
+        "override_max_value": false,
+        "max_value": 120,
+        "override_weight": false,
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "Toy car",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 49,
+        "override_max_value": false,
+        "max_value": 174,
+        "override_weight": false,
+        "weight": 1.02857149
+      }
+    },
+    {
+      "key": "Toy cube",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 60,
+        "override_max_value": false,
+        "max_value": 110,
+        "override_weight": false,
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "Toy Hammer",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 40,
+        "override_max_value": false,
+        "max_value": 200,
+        "override_weight": false,
+        "weight": 1.0952
+      }
+    },
+    {
+      "key": "Toy robot",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 140,
+        "override_max_value": false,
+        "max_value": 220,
+        "override_weight": false,
+        "weight": 1.2
+      }
+    },
+    {
+      "key": "Toy tank",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 49,
+        "override_max_value": false,
+        "max_value": 199,
+        "override_weight": false,
+        "weight": 1.03809524
+      }
+    },
+    {
+      "key": "Tragedy",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 70,
+        "override_max_value": false,
+        "max_value": 130,
+        "override_weight": false,
+        "weight": 1.1
+      }
+    },
+    {
+      "key": "Tragic Display",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Triangle Seed",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 35,
+        "override_max_value": false,
+        "max_value": 95,
+        "override_weight": false,
+        "weight": 1.25
+      }
+    },
+    {
+      "key": "Tri-Force",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 450,
+        "override_max_value": false,
+        "max_value": 950,
+        "override_weight": false,
+        "weight": 1.55
+      }
+    },
+    {
+      "key": "Trogdor the Burninator",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 150,
+        "override_max_value": false,
+        "max_value": 300,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Turbo Star",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Turret",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Twerkey",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Two Star Dragon Ball",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Two Star Namekian Dragon Ball",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Uboa",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 300,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Ultra Energy",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 200,
+        "override_max_value": false,
+        "max_value": 280,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Umbreon",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Vaporeon",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "V-type engine",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 140,
+        "override_weight": false,
+        "weight": 1.15
+      }
+    },
+    {
+      "key": "Waluigi Statue",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 155,
+        "override_max_value": false,
+        "max_value": 337,
+        "override_weight": false,
+        "weight": 1.95
+      }
+    },
+    {
+      "key": "Warp Star",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.2
+      }
+    },
+    {
+      "key": "Warplane toy",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 37,
+        "override_max_value": false,
+        "max_value": 187,
+        "override_weight": false,
+        "weight": 1.02857149
+      }
+    },
+    {
+      "key": "Watermelon",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 125,
+        "override_max_value": false,
+        "max_value": 215,
+        "override_weight": false,
+        "weight": 1.25
+      }
+    },
+    {
+      "key": "Wave Beam",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Wheelie",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Wheelie Scooter",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "White Bomberman Plushie",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 150,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Whoopie cushion",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 15,
+        "override_max_value": false,
+        "max_value": 50,
+        "override_weight": false,
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "Wii Nunchaku",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Wiimote",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "WiiU Gamepad",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Winged Star",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.15
+      }
+    },
+    {
+      "key": "Yellow Fruit",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 75,
+        "override_max_value": false,
+        "max_value": 155,
+        "override_weight": false,
+        "weight": 1.25
+      }
+    },
+    {
+      "key": "Yellow Keycard",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Yellow Skull Key",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Yield sign",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 45,
+        "override_max_value": false,
+        "max_value": 90,
+        "override_weight": false,
+        "weight": 1.4
+      }
+    },
+    {
+      "key": "Yoshi Egg",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Zoidberg",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    }
+  ]
+}

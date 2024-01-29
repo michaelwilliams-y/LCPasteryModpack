@@ -1,0 +1,352 @@
+{
+  "items": [
+    {
+      "key": "Boombox",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 60,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.15
+      }
+    },
+    {
+      "key": "Bulletproof vest",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 150,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.19047618
+      }
+    },
+    {
+      "key": "Emergency Flare (ammo)",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 20,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.009523
+      }
+    },
+    {
+      "key": "Extension ladder",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 60,
+        "override_max_discount": false,
+        "max_discount": 60,
+        "override_weight": false,
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "Flaregun",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 100,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.028
+      }
+    },
+    {
+      "key": "Flashlight",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 15,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "Flippers",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 100,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.0476191
+      }
+    },
+    {
+      "key": "Hacking Tool",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 120,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.0476
+      }
+    },
+    {
+      "key": "Headset",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 40,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.02857149
+      }
+    },
+    {
+      "key": "Helmet lamp",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 50,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.03809524
+      }
+    },
+    {
+      "key": "Jetpack",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 700,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.5
+      }
+    },
+    {
+      "key": "Lightning rod",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 250,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.66666663
+      }
+    },
+    {
+      "key": "Lockpicker",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 20,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.15
+      }
+    },
+    {
+      "key": "Missile launcher",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 80,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.09523809
+      }
+    },
+    {
+      "key": "Pinger",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 100,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.028
+      }
+    },
+    {
+      "key": "Pro-flashlight",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 25,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Radar-booster",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 60,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.18
+      }
+    },
+    {
+      "key": "Remote Radar",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 150,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.0476
+      }
+    },
+    {
+      "key": "Rocket boots",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 100,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.0476191
+      }
+    },
+    {
+      "key": "Rocket Launcher",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 300,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.38
+      }
+    },
+    {
+      "key": "Shovel",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 30,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.08
+      }
+    },
+    {
+      "key": "Spray paint",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 50,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "Stun grenade",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 30,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "Tactical helmet",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 150,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.152381
+      }
+    },
+    {
+      "key": "TZP-Inhalant",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 120,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "Utility Belt",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 290,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.0952
+      }
+    },
+    {
+      "key": "Vision enhancer",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 250,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.07619047
+      }
+    },
+    {
+      "key": "Walkie-talkie",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 12,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "Zap gun",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 400,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.1
+      }
+    }
+  ]
+}

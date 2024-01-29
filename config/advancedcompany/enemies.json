@@ -1,0 +1,180 @@
+{
+  "enemies": [
+    {
+      "key": "Baboon hawk",
+      "value": {
+        "active": true,
+        "override_power_level": false,
+        "power_level": 1
+      }
+    },
+    {
+      "key": "Blob",
+      "value": {
+        "active": true,
+        "override_power_level": false,
+        "power_level": 1
+      }
+    },
+    {
+      "key": "Boomba",
+      "value": {
+        "active": true,
+        "override_power_level": false,
+        "power_level": 1
+      }
+    },
+    {
+      "key": "Bunker Spider",
+      "value": {
+        "active": true,
+        "override_power_level": false,
+        "power_level": 3
+      }
+    },
+    {
+      "key": "Centipede",
+      "value": {
+        "active": true,
+        "override_power_level": false,
+        "power_level": 1
+      }
+    },
+    {
+      "key": "Crawler",
+      "value": {
+        "active": true,
+        "override_power_level": false,
+        "power_level": 3
+      }
+    },
+    {
+      "key": "Docile Locust Bees",
+      "value": {
+        "active": true,
+        "override_power_level": false,
+        "power_level": 1
+      }
+    },
+    {
+      "key": "Earth Leviathan",
+      "value": {
+        "active": true,
+        "override_power_level": false,
+        "power_level": 2
+      }
+    },
+    {
+      "key": "Flowerman",
+      "value": {
+        "active": true,
+        "override_power_level": false,
+        "power_level": 3
+      }
+    },
+    {
+      "key": "ForestGiant",
+      "value": {
+        "active": true,
+        "override_power_level": false,
+        "power_level": 3
+      }
+    },
+    {
+      "key": "Girl",
+      "value": {
+        "active": true,
+        "override_power_level": false,
+        "power_level": 2
+      }
+    },
+    {
+      "key": "Hoarding bug",
+      "value": {
+        "active": true,
+        "override_power_level": false,
+        "power_level": 1
+      }
+    },
+    {
+      "key": "Jester",
+      "value": {
+        "active": true,
+        "override_power_level": false,
+        "power_level": 3
+      }
+    },
+    {
+      "key": "Lasso",
+      "value": {
+        "active": true,
+        "override_power_level": false,
+        "power_level": 2
+      }
+    },
+    {
+      "key": "Manticoil",
+      "value": {
+        "active": true,
+        "override_power_level": false,
+        "power_level": 1
+      }
+    },
+    {
+      "key": "Masked",
+      "value": {
+        "active": true,
+        "override_power_level": false,
+        "power_level": 1
+      }
+    },
+    {
+      "key": "MouthDog",
+      "value": {
+        "active": true,
+        "override_power_level": false,
+        "power_level": 2
+      }
+    },
+    {
+      "key": "Nutcracker",
+      "value": {
+        "active": true,
+        "override_power_level": false,
+        "power_level": 1
+      }
+    },
+    {
+      "key": "Puffer",
+      "value": {
+        "active": true,
+        "override_power_level": false,
+        "power_level": 1
+      }
+    },
+    {
+      "key": "Red Locust Bees",
+      "value": {
+        "active": true,
+        "override_power_level": false,
+        "power_level": 1
+      }
+    },
+    {
+      "key": "Shrimp",
+      "value": {
+        "active": true,
+        "override_power_level": false,
+        "power_level": 0
+      }
+    },
+    {
+      "key": "Spring",
+      "value": {
+        "active": true,
+        "override_power_level": false,
+        "power_level": 1
+      }
+    }
+  ]
+}
